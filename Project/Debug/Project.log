@@ -1,0 +1,12 @@
+﻿  GameEnded.cpp
+  Item.cpp
+  Living.cpp
+  main.cpp
+  Monster.cpp
+  Player.cpp
+  Room.cpp
+  Spawnable.cpp
+  xorshift.cpp
+D:\Documents\CSUF Files\Spring 2017\Cplusplus\Project\Project\xorshift.cpp(12,14): warning C4244: '=': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Project.vcxproj -> D:\Documents\CSUF Files\Spring 2017\Cplusplus\Project\Debug\Project.exe
